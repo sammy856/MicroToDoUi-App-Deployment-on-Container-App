@@ -1,5 +1,7 @@
 # Todo Microservices — Complete Azure Container Apps Deployment Guide
 
+Note:- connection string url me ODBC 17 rakhna hai 18 ki jagah
+
 ## 1. Project Overview
 
 This project contains four applications:
